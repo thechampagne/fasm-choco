@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>fasm</id>
+    <version>1.73.30</version>
+    <packageSourceUrl>https://github.com/thechampagne/fasm-choco</packageSourceUrl>
+    <owners>XXIV</owners>
+    <title>Flat Assembler</title>
+    <authors>Tomasz Grysztar</authors>
+    <projectUrl>https://flatassembler.net/</projectUrl>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/commons/f/fa/FASM2.png</iconUrl>
+    <copyright>Copyright (c) 1999-2023, Tomasz Grysztar</copyright>
+    <licenseUrl>https://github.com/tgrysztar/fasm/blob/master/LICENSE.TXT</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/tgrysztar/fasm</projectSourceUrl>
+    <docsUrl>https://flatassembler.net/docs.php?article=manual</docsUrl>
+    <bugTrackerUrl>https://board.flatassembler.net/</bugTrackerUrl>
+    <tags>fasm assembly assembler x86 x86-64 compiler</tags>
+    <summary>An assembler for x86 processors</summary>
+    <description>FASM (flat assembler) is an assembler for x86 processors. It supports Intel-style assembly language on the IA-32 and x86-64 computer architectures. It claims high speed, size optimizations, operating system (OS) portability, and macro abilities. It is a low-level assembler and intentionally uses very few command-line options. It is free and open-source software.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

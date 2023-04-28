@@ -1,0 +1,7 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Version  : 1.73.30
+URL      : https://flatassembler.net/fasmw17330.zip
+CheckSum : 0570454A4F93BAF68BAB4AD2A7A5E25EB86F1DF62FA57DD6942842426C94286A
